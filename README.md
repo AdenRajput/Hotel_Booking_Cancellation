@@ -8,7 +8,7 @@ I would like to thank the following contributors for their valuable contribution
 - Muhammad Arsalan
 - Amna Farooq
 - Jackie Lohana
-- Zartashia Afzal![image](https://github.com/AdenRajput/Hotel_Booking_Cancellation/assets/62211585/874e248c-dce8-4f98-8ae0-b70de6a2e555)
+- Zartashia Afzal
 
 ## Citing this Work
 
